@@ -1,0 +1,293 @@
+﻿<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f02e90f6-fdb4-42be-a01d-6a6a593088fa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capital_game.js" beforeDir="false" afterPath="$PROJECT_DIR$/capital_game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+@@ -16,45 +16,33 @@
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="20" column="95" lean-forward="true" selection-start-line="20" selection-start-column="95" selection-end-line="20" selection-end-column="95" />
+            <state relative-caret-position="1275">
+              <caret line="51" column="10" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/capital_game.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+            <state relative-caret-position="1525">
+              <caret line="447" lean-forward="true" selection-start-line="447" selection-end-line="447" />
+              <folding>
+                <element signature="e#36#306#0" />
+                <element signature="e#340#418#0" />
+                <element signature="n#!!block;n#getRandomInt#0" />
+                <element signature="n#!!block;n#initializeTable#0" />
+                <element signature="n#!!block;n#getRandomEntry#0" />
+                <element signature="e#1314#1367#0" />
+                <element signature="e#1433#1464#0" />
+                <element signature="e#1555#2165#0" />
+                <element signature="n#!!block;n#writeToDatabase#0" />
+                <element signature="n#!!block;n#bindHover#0" />
+                <element signature="n#!!block;n#fillContent#0" />
+                <element signature="e#2918#3294#0" />
+                <element signature="e#3301#3709#0" />
+                <element signature="e#3897#4465#0" />
+                <element signature="n#!!block;n#ReAddrow#0" />
+                <element signature="e#5260#5636#0" />
+                <element signature="e#5643#6051#0" />
+                <element signature="e#6238#6806#0" />
+                <element signature="n#!!block;n#readFromDatabase#0" />
+                <element signature="e#7478#8240#0" />
+                <element signature="e#8244#8325#0" />
+                <element signature="e#8429#8601#0" />
+                <element signature="n#!!block;n#dynamicQ#0" />
+                <element signature="e#8872#8945#0" />
+                <element signature="e#8984#9933#0" />
+                <element signature="e#9697#10646#0" />
+              </folding>
+            </state>
+          </provider>
+@@ -63,8 +51,8 @@
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/capital_game.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+            <state relative-caret-position="775">
+              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+@@ -130,18 +118,28 @@
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="812" />
+    <option name="height" value="813" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Pro3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pro3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+@@ -201,17 +199,18 @@
+      <workItem from="1556589825414" duration="5908000" />
+      <workItem from="1556622908625" duration="8083000" />
+      <workItem from="1556677775681" duration="9677000" />
+      <workItem from="1556775455724" duration="2387000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="109229000" />
+    <option name="totallyTimeSpent" value="112836000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="812" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17829457" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1314399" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+@@ -259,49 +258,37 @@
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="51" column="10" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capital_game.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        <state relative-caret-position="775">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/capital_game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="28" column="18" lean-forward="true" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+        <state relative-caret-position="1525">
+          <caret line="447" lean-forward="true" selection-start-line="447" selection-end-line="447" />
+          <folding>
+            <element signature="e#36#306#0" />
+            <element signature="e#340#418#0" />
+            <element signature="n#!!block;n#getRandomInt#0" />
+            <element signature="n#!!block;n#initializeTable#0" />
+            <element signature="n#!!block;n#getRandomEntry#0" />
+            <element signature="e#1314#1367#0" />
+            <element signature="e#1433#1464#0" />
+            <element signature="e#1555#2165#0" />
+            <element signature="n#!!block;n#writeToDatabase#0" />
+            <element signature="n#!!block;n#bindHover#0" />
+            <element signature="n#!!block;n#fillContent#0" />
+            <element signature="e#2918#3294#0" />
+            <element signature="e#3301#3709#0" />
+            <element signature="e#3897#4465#0" />
+            <element signature="n#!!block;n#ReAddrow#0" />
+            <element signature="e#5260#5636#0" />
+            <element signature="e#5643#6051#0" />
+            <element signature="e#6238#6806#0" />
+            <element signature="n#!!block;n#readFromDatabase#0" />
+            <element signature="e#7478#8240#0" />
+            <element signature="e#8244#8325#0" />
+            <element signature="e#8429#8601#0" />
+            <element signature="n#!!block;n#dynamicQ#0" />
+            <element signature="e#8872#8945#0" />
+            <element signature="e#8984#9933#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="20" column="95" lean-forward="true" selection-start-line="20" selection-start-column="95" selection-end-line="20" selection-end-column="95" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#9697#10646#0" />
+          </folding>
+        </state>
+      </provider>
+  58  Pro3/capital_game.js 
+@@ -99,21 +99,21 @@ function writeToDatabase(cpair,inp) {
+
+function bindHover(id){
+  var timer;
+  var cuurentsrc=document.getElementById('map').src;
+  $(id).on('mouseenter','td',function(){
+     var hold=this.innerHTML;
+     var countryTD=this.parentNode.firstChild; //get country as prefix, to ensure get location of a capital city, not a company
+     if(hold.indexOf("<")!==-1){
+       hold=hold.split("<")[0];
+       timer=setTimeout(function(){
+         $('#map').attr('src',
+             'https://www.google.com/maps/embed/v1/place?&key=AIzaSyC-p4m93ucVeEEytDmFt-dVRrOZ7XPE-yY&language=en&maptype=roadmap&q='
+         +hold+"&zoom=5");
+         +countryTD.innerHTML+hold+"&zoom=5");
+         $('#map').attr('style',"border:1px solid black");
+       },1000);
+     }
+     else{
+       timer=setTimeout(function(){
+         dynamicQ(hold);
+         dynamicQ('Country '+hold);
+         $('#map').attr('style',"border:1px solid black");
+       },1000);
+     }
+@@ -355,6 +355,7 @@ function dynamicQ(qountry){
+
+clearButton.onclick=function(){
+  initializeTable();
+  record_log_database("clear",data);// how to record data in database?
+  firebase.database().ref('/entryBox').remove();
+};
+
+@@ -398,3 +399,54 @@ $( function(){
+
+});
+
+//record every operation and current data into database
+function record_log_database(op,data) {
+  var newKey = firebase.database().ref('/undoBox/').push();
+  newKey.set({
+    operation:op,
+    data:data
+  });
+}
+
+
+//
+undoButton.onclick=function(){
+  var op;
+  var data_log;
+  return firebase.database().ref('/undoBox/').once('value',function(snapshot){
+    var myValue=snapshot.val();
+    if(myValue!==null){
+
+      var keyList = Object.keys(myValue);
+      for(var i=0;i<keyList.length;i++) {
+        var myKey = keyList[i];
+        op=myValue[myKey].operation;
+        data_log=myValue[myKey].data
+      }
+
+      if(op==="add"){
+
+      }
+
+      else if(op==="delete"){
+
+      }
+
+      else if(op==="clear"){
+
+      }
+
+
+
+
+
+
+    }
+  })
+};
+
+
+resetButton.onclick=function(){
+  firebase.database().ref('/entryBox').remove();
+  firebase.database().ref('/undoBox').remove();
+}; 

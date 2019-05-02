@@ -326,7 +326,7 @@ function readFromDatabase() {
     var myValue = snapshot.val();
     if(myValue!==null){
       var keyList = Object.keys(myValue);
-      if(keyList.length===0){
+      if(keyList.length!==0){
         $('#pr3__clear').attr("disabled",false);
       }
       for(var i=0;i<keyList.length;i++) {

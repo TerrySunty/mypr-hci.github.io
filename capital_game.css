@@ -1,0 +1,39 @@
+
+/*your code here*/
+#map{
+    height:400px;
+    width:500px
+}
+
+body {
+    text-align: center;
+    background-color: #eee;
+}
+
+/*your code here*/
+.center-div
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+table{
+    text-align: left;
+    border-collapse: collapse;
+}
+th{
+    padding: 3px;
+}
+td{
+    padding:3px;
+}
+
+tr {
+    border-bottom: 3px double coral;
+}
+
+.ui-autocomplete{
+    height: 200px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
